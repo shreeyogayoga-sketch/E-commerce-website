@@ -1,1 +1,1 @@
-
+A compact, beginner-friendly full‑stack e‑commerce starter project that demonstrates user authentication, product CRUD , cart management, and order placement backed by MongoDB. The backend is built with Node.js/Express and Mongoose; the frontend is a simple static single-page app using JavaScript and fetch API.
